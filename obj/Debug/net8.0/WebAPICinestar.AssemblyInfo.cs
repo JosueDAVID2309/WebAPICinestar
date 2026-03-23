@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebAPICinestar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+268c430728e383364eda0a3c1c5e40ce1ef3873d")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebAPICinestar")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebAPICinestar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Josue\\source\\repos\\WebAPICinestar\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2E9AEAE3-B524-410D-AC7E-FF614FD4DD40}|WebAPICinestar.csproj|c:\\users\\josue\\source\\repos\\webapicinestar\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E9AEAE3-B524-410D-AC7E-FF614FD4DD40}|WebAPICinestar.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3A4B4062-1656-0DEB-06C3-EAC7A8BC9E6D}|WebAPICinestar.csproj|c:\\users\\josue\\source\\repos\\webapicinestar\\controllers\\peliculacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A4B4062-1656-0DEB-06C3-EAC7A8BC9E6D}|WebAPICinestar.csproj|solutionrelative:controllers\\peliculacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2E9AEAE3-B524-410D-AC7E-FF614FD4DD40}|WebAPICinestar.csproj|c:\\users\\josue\\source\\repos\\webapicinestar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E9AEAE3-B524-410D-AC7E-FF614FD4DD40}|WebAPICinestar.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3A4B4062-1656-0DEB-06C3-EAC7A8BC9E6D}|WebAPICinestar.csproj|c:\\users\\josue\\source\\repos\\webapicinestar\\controllers\\cinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A4B4062-1656-0DEB-06C3-EAC7A8BC9E6D}|WebAPICinestar.csproj|solutionrelative:controllers\\cinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A4B4062-1656-0DEB-06C3-EAC7A8BC9E6D}|WebAPICinestar.csproj|c:\\users\\josue\\source\\repos\\webapicinestar\\controllers\\bd\\clsdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A4B4062-1656-0DEB-06C3-EAC7A8BC9E6D}|WebAPICinestar.csproj|solutionrelative:controllers\\bd\\clsdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A4B4062-1656-0DEB-06C3-EAC7A8BC9E6D}|WebAPICinestar.csproj|c:\\users\\josue\\source\\repos\\webapicinestar\\controllers\\dao\\daopelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A4B4062-1656-0DEB-06C3-EAC7A8BC9E6D}|WebAPICinestar.csproj|solutionrelative:controllers\\dao\\daopelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A4B4062-1656-0DEB-06C3-EAC7A8BC9E6D}|WebAPICinestar.csproj|c:\\users\\josue\\source\\repos\\webapicinestar\\controllers\\dao\\daocine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A4B4062-1656-0DEB-06C3-EAC7A8BC9E6D}|WebAPICinestar.csproj|solutionrelative:controllers\\dao\\daocine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A4B4062-1656-0DEB-06C3-EAC7A8BC9E6D}|WebAPICinestar.csproj|c:\\users\\josue\\source\\repos\\webapicinestar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A4B4062-1656-0DEB-06C3-EAC7A8BC9E6D}|WebAPICinestar.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,19 +55,71 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\Josue\\source\\repos\\WebAPICinestar\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\Josue\\source\\repos\\WebAPICinestar\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "PeliculaController.cs",
+              "DocumentMoniker": "C:\\Users\\Josue\\source\\repos\\WebAPICinestar\\Controllers\\PeliculaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PeliculaController.cs",
+              "ToolTip": "C:\\Users\\Josue\\source\\repos\\WebAPICinestar\\Controllers\\PeliculaController.cs",
+              "RelativeToolTip": "Controllers\\PeliculaController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-23T03:38:46.678Z",
+              "WhenOpened": "2026-03-23T04:53:20.274Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "CineController.cs",
+              "DocumentMoniker": "C:\\Users\\Josue\\source\\repos\\WebAPICinestar\\Controllers\\CineController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CineController.cs",
+              "ToolTip": "C:\\Users\\Josue\\source\\repos\\WebAPICinestar\\Controllers\\CineController.cs",
+              "RelativeToolTip": "Controllers\\CineController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T04:47:50.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "daoPelicula.cs",
+              "DocumentMoniker": "C:\\Users\\Josue\\source\\repos\\WebAPICinestar\\Controllers\\dao\\daoPelicula.cs",
+              "RelativeDocumentMoniker": "Controllers\\dao\\daoPelicula.cs",
+              "ToolTip": "C:\\Users\\Josue\\source\\repos\\WebAPICinestar\\Controllers\\dao\\daoPelicula.cs",
+              "RelativeToolTip": "Controllers\\dao\\daoPelicula.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowD4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T04:09:43.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "daoCine.cs",
+              "DocumentMoniker": "C:\\Users\\Josue\\source\\repos\\WebAPICinestar\\Controllers\\dao\\daoCine.cs",
+              "RelativeDocumentMoniker": "Controllers\\dao\\daoCine.cs",
+              "ToolTip": "C:\\Users\\Josue\\source\\repos\\WebAPICinestar\\Controllers\\dao\\daoCine.cs",
+              "RelativeToolTip": "Controllers\\dao\\daoCine.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAYwG0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T04:09:17.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clsDB.cs",
+              "DocumentMoniker": "C:\\Users\\Josue\\source\\repos\\WebAPICinestar\\Controllers\\bd\\clsDB.cs",
+              "RelativeDocumentMoniker": "Controllers\\bd\\clsDB.cs",
+              "ToolTip": "C:\\Users\\Josue\\source\\repos\\WebAPICinestar\\Controllers\\bd\\clsDB.cs",
+              "RelativeToolTip": "Controllers\\bd\\clsDB.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T04:08:16.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Josue\\source\\repos\\WebAPICinestar\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
