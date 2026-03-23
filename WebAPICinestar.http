@@ -1,0 +1,6 @@
+@WebAPICinestar_HostAddress = http://localhost:5186
+
+GET {{WebAPICinestar_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
